@@ -9,8 +9,7 @@
     >
       <p>My name is Tony, iam Frontend developer</p>
 
-      <img
-        src="https://user-images.githubusercontent.com/72309855/153017576-a1f7e82b-cb4c-4542-8816-5d1ba8cc76f0.png"
-        alt=""
-      />
+ <p>
+  ![Group 1](https://user-images.githubusercontent.com/72309855/153018355-3379dce2-660d-46a3-9a62-886b93b39ce0.png)
+ </p>
     </div>
