@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Tony, iam Frontend developer 
-
+Iam Software developer, 
 Sou desenvolvedor de interfaces web e
 Pretendo ajudar a proporcionar um
 melhor ambiente de navegação para o
@@ -9,17 +9,8 @@ e interagir, proporcionando experiencias
 fantásticas e maravilhosas, como
 consequência trazendo novos clientes
 para a empresa.
-<!--
-**Antonio-Sitoe/Antonio-Sitoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Group 1](https://user-images.githubusercontent.com/72309855/153017576-a1f7e82b-cb4c-4542-8816-5d1ba8cc76f0.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ReactJS (NextJs), Typescript
+- 🌱 I’m currently learning TypesCript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
