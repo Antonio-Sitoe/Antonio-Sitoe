@@ -9,6 +9,6 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 - Sass, Bootstrap and Styled-components.
 - Strapi CMS
 
-<img src="https://user-images.githubusercontent.com/72309855/166139598-5110f283-2f82-4b93-822c-df7a913442a2.png" width="30px">
+<img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="30px">
 
 
