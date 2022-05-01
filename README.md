@@ -18,13 +18,9 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 I love technology and problems resolve, and in my free times, i like to teach javascript language for many people.
 Follow this Links:
 
-  <ul>
-    <li>
-<a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">Maputo Frontenders</a>
-    </li>
-    <li>
-      <a href="https://www.youtube.com/channel/UCSPLWDkv3OPVCXJo_nDq3LQ">DevTalksMz</a>
-    </li>
-  </ul>
+<ul style="margin-top: 2rem;">
+  <li><a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">Maputo Frontenders</a></li>
+  <li><a href="https://www.youtube.com/channel/UCSPLWDkv3OPVCXJo_nDq3LQ">DevTalksMz</a></li>
+</ul>
 
 
