@@ -16,8 +16,9 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 <ul style="margin-top: 2rem;">
   <li>
    <a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">
- 
-     <img src="https://user-images.githubusercontent.com/72309855/166140410-66ad3f65-ecc6-4497-b679-08f18a206342.png" width="15px">Maputo Frontenders</a></li>
+     <img src="https://user-images.githubusercontent.com/72309855/166140410-66ad3f65-ecc6-4497-b679-08f18a206342.png" width="15px"/>
+     Maputo Frontenders
+   </a></li>
   <li><a href="https://www.youtube.com/channel/UCSPLWDkv3OPVCXJo_nDq3LQ">
     <img src="https://user-images.githubusercontent.com/72309855/166140412-7db2919a-2b8c-4d1d-9c43-aeaf4aa4d9b2.jpg" width="15px">    DevTalksMz</a></li>
 </ul>
