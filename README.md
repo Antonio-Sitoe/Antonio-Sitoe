@@ -15,6 +15,10 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 
 <ul style="margin-top: 2rem;">
   <li>
+   <a href="https://www.linkedin.com/in/antonio-sitoe-521b64205/">
+     Linkdin
+   </a></li>
+  <li>
    <a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">
      <img src="https://user-images.githubusercontent.com/72309855/166140410-66ad3f65-ecc6-4497-b679-08f18a206342.png" width="15px"/>
      Maputo Frontenders
