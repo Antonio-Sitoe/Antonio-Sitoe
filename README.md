@@ -31,14 +31,8 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
   </li>
   
   <li>
-   <a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">
-     <img src="https://user-images.githubusercontent.com/72309855/166140410-66ad3f65-ecc6-4497-b679-08f18a206342.png" width="15px"/>
-     Maputo Frontenders
+   <a href="https://www.youtube.com/channel/UCV_uXipzR4hVyiGQ48msgvg/videos">
+     <img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-logo-vector-PNG.png" width="15px"/>
+     My Youtube Channel
    </a></li>
-    
-    <li>
-      <a href="https://www.youtube.com/channel/UCV_uXipzR4hVyiGQ48msgvg/videos">
-         <img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-logo-vector-PNG.png" width="15px" />   My Youtube Channel
-      </a>
-   </li>
 </ul>
