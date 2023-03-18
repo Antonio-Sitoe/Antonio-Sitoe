@@ -20,12 +20,6 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
       <img src="https://scontent.fmpm2-1.fna.fbcdn.net/v/t39.30808-6/267422938_4880673518668256_5792791296770782057_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4V1YcXaDDc0AX99xjbx&_nc_zt=23&_nc_ht=scontent.fmpm2-1.fna&oh=00_AT_85belkuQWz9frMlY4c5-UmpIzcl7bAOj3kX5PLEX0-w&oe=631D69A9" width="15px"/>
      Linkdin
    </a></li>
-  <li>
-   <a href="https://www.youtube.com/channel/UCTy7lznUiiBzmS4LqDKysSA">
-     <img src="https://user-images.githubusercontent.com/72309855/166140410-66ad3f65-ecc6-4497-b679-08f18a206342.png" width="15px"/>
-     Maputo Frontenders
-   </a></li>
-  <li>
     <a href="https://www.youtube.com/channel/UCSPLWDkv3OPVCXJo_nDq3LQ">
     <img src="https://user-images.githubusercontent.com/72309855/166140412-7db2919a-2b8c-4d1d-9c43-aeaf4aa4d9b2.jpg" width="15px">    DevTalksMz
     </a>
