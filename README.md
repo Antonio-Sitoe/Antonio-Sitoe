@@ -6,7 +6,7 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 - <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px"> ReactJs (NextJs).
 - <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px"> React Native (Expo & CLI).
 - <img src="https://user-images.githubusercontent.com/72309855/166139904-13e25048-61e8-4259-b623-3b7fdc1c9052.png" width="15px"> Typescript.
-- <img src="https://user-images.githubusercontent.com/72309855/166139827-da4c230c-d1e3-4ea3-8fb6-08c8dd5fb478.png" width="15px"> Sass, Bootstrap and Styled-components, Material UI, chackra UI, NextUi.
+- <img src="https://user-images.githubusercontent.com/72309855/166139827-da4c230c-d1e3-4ea3-8fb6-08c8dd5fb478.png" width="15px"> Sass, Bootstrap and Styled-components, Material UI, chackra UI, Tailwind (nativeWind)
 - Strapi CMS / Firebase / wordpress (Elementor)
 - Nodejs
 - Java
