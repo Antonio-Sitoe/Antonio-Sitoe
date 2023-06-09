@@ -8,7 +8,8 @@ Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique
 - <img src="https://user-images.githubusercontent.com/72309855/166139904-13e25048-61e8-4259-b623-3b7fdc1c9052.png" width="15px"> Typescript.
 - <img src="https://user-images.githubusercontent.com/72309855/166139827-da4c230c-d1e3-4ea3-8fb6-08c8dd5fb478.png" width="15px"> Sass, Bootstrap and Styled-components, Material UI, chackra UI, NextUi.
 - Strapi CMS / Firebase / wordpress
-
+- Nodejs
+- Java
 <p style="margin-top: 2rem;">
   I love technology and problems resolve, and in my free times, i like to teach javascript language for many people.
   Follow this Links
