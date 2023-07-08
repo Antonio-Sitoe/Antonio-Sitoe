@@ -1,34 +1,40 @@
-### Hi there 👋
+### Introduction
+------------
 
-Iam happy to, see You again!
-Hello my name is Antonio Sitoe, i live in Maputo, the capital city of mozambique, in Africa, iam frontend,Mobile developer and ui/ux enthusiastic,  and i use:
+Hello! Welcome to my GitHub repository. My name is Antonio Sitoe, and I'm a frontend and mobile developer with a passion for UI/UX design. I currently reside in Maputo, the capital city of Mozambique in Africa.
 
-- <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px"> ReactJs (NextJs).
-- <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px"> React Native (Expo & CLI).
-- <img src="https://user-images.githubusercontent.com/72309855/166139904-13e25048-61e8-4259-b623-3b7fdc1c9052.png" width="15px"> Typescript.
-- <img src="https://user-images.githubusercontent.com/72309855/166139827-da4c230c-d1e3-4ea3-8fb6-08c8dd5fb478.png" width="15px"> Sass, Bootstrap and Styled-components, Material UI, chackra UI, Tailwind (nativeWind)
-- Strapi CMS / Firebase / wordpress (Elementor)
-- Nodejs, Fastify (Basic)
-- Java (Basic)
-<p style="margin-top: 2rem;">
-  I love technology and problems resolve, and in my free times, i like to teach javascript language for many people.
-  Follow this Links
-</p>
+### Technologies I Use
+------------------
 
-<ul style="margin-top: 2rem;">
-  <li>
-   <a href="https://www.linkedin.com/in/antonio-sitoe-521b64205/">
-      <img src="https://scontent.fmpm2-1.fna.fbcdn.net/v/t39.30808-6/267422938_4880673518668256_5792791296770782057_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4V1YcXaDDc0AX99xjbx&_nc_zt=23&_nc_ht=scontent.fmpm2-1.fna&oh=00_AT_85belkuQWz9frMlY4c5-UmpIzcl7bAOj3kX5PLEX0-w&oe=631D69A9" width="15px"/>
-     Linkdin
-   </a></li>
-    <a href="https://www.youtube.com/channel/UCSPLWDkv3OPVCXJo_nDq3LQ">
-    <img src="https://user-images.githubusercontent.com/72309855/166140412-7db2919a-2b8c-4d1d-9c43-aeaf4aa4d9b2.jpg" width="15px">    DevTalksMz
-    </a>
-  </li>
-  
-  <li>
-   <a href="https://www.youtube.com/channel/UCV_uXipzR4hVyiGQ48msgvg/videos">
-     <img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-logo-vector-PNG.png" width="15px"/>
-     My Youtube Channel
-   </a></li>
-</ul>
+-  <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px">  ReactJs (NextJs): I have extensive experience in building web applications using ReactJs and NextJs. These frameworks allow me to create dynamic and interactive user interfaces.
+
+-  <img src="https://user-images.githubusercontent.com/72309855/166139684-2aa71f49-e9ef-4fce-8db3-a3331dd355a0.png" width="15px">  React Native (Expo & CLI): I'm proficient in developing cross-platform mobile applications using React Native. I utilize both Expo and the React Native CLI to build robust and engaging mobile experiences.
+
+-  <img src="https://user-images.githubusercontent.com/72309855/166139904-13e25048-61e8-4259-b623-3b7fdc1c9052.png" width="15px">  TypeScript: I prefer using TypeScript for its static typing, which helps me catch errors during development and improves code quality.
+
+-  <img src="https://user-images.githubusercontent.com/72309855/166139827-da4c230c-d1e3-4ea3-8fb6-08c8dd5fb478.png" width="15px">  Sass, Bootstrap, Styled-components, Material UI, Chakra UI, Tailwind: I utilize a variety of styling libraries to create visually appealing and responsive designs. Whether it's Sass, Bootstrap, or the latest UI frameworks like Material UI, Chakra UI, or Tailwind, I can adapt to different project requirements.
+
+-   Strapi CMS / Firebase / WordPress (Elementor): I have experience working with various content management systems such as Strapi CMS, and WordPress with Elementor, and backend as a servie Firebase. These tools enable me to efficiently manage and organize content for web applications.
+
+-   Node.js, Fastify: While my focus is primarily on frontend development, I have a solid understanding of backend technologies. I have worked with Node.js and Fastify to build basic server-side functionality for web applications.
+
+-   Java: Although my Java skills are at a basic level, I have some familiarity with the language and can work on simple Java projects.
+
+Personal Interests
+------------------
+
+Apart from my professional pursuits, I have a genuine passion for technology and problem-solving. I enjoy staying up to date with the latest advancements in the tech industry and finding innovative solutions to complex challenges.
+
+In my free time, I also dedicate myself to teaching the JavaScript language to individuals who are eager to learn. I find great joy in sharing my knowledge and helping others gain the skills they need to excel in the world of web development.
+
+Connect with Me
+---------------
+
+If you'd like to reach out to me or learn more about my work, feel free to connect with me through the following channels:
+
+-   LinkedIn: [Antonio Sitoe]("https://www.linkedin.com/in/antonio-sitoe-521b64205/")
+-   My Youtube Channel: [@username](https://twitter.com/username)
+-   DevTalksMz: [www.example.com](https://www.example.com/)
+- <img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-logo-vector-PNG.png" width="15px"/> My Youtube Channel: [www.example.com]("https://www.youtube.com/channel/UCV_uXipzR4hVyiGQ48msgvg/videos")
+
+Thank you for visiting my GitHub repository. I look forward to collaborating and exploring exciting opportunities with fellow developers.
