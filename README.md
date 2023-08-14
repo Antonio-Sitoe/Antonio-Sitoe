@@ -1,6 +1,3 @@
-### Introduction
-------------
-
 Hello! Welcome to my GitHub repository. My name is Antonio Sitoe, and I'm a frontend and mobile developer with a passion for UI/UX design.
 
 ### Technologies I Use
