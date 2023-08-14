@@ -25,12 +25,4 @@ Personal Interests
 
 Apart from my professional pursuits, I have a genuine passion for technology and problem-solving. I enjoy staying up to date with the latest advancements in the tech industry and finding innovative solutions to complex challenges.
 
-Connect with Me
----------------
-
-If you'd like to reach out to me or learn more about my work, feel free to connect with me through the following channels:
-
--   LinkedIn: [Antonio Sitoe]("https://www.linkedin.com/in/antonio-sitoe-521b64205/")
--   <img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-logo-vector-PNG.png" width="15px"/>: [My Youtube Channel]("https://www.youtube.com/channel/UCV_uXipzR4hVyiGQ48msgvg/videos")
-
 Thank you for visiting my GitHub, I look forward to collaborating and exploring exciting opportunities with fellow developers.
