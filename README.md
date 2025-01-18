@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Sitoe</h1>
 <h3 align="center">A passionate Frontend and Mobile developer from Mozambique (Maputo)</h3>
 
-
-- 🔭 I’m currently working on [PreachingApp](https://github.com/Antonio-Sitoe/PreachingApp)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, and Android development**
 
 - 👯 I’m looking to collaborate on **Android (React Native) Projects**
