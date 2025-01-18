@@ -24,13 +24,14 @@
 ### Languages and Tools:
 
 - **Languages**
-  - ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg =20x20)
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =20x20)
-  - ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg =20x20)
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="20" height="20"/>
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/>
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/>
 
 - **Frameworks and Tools**
-  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =20x20)
-  - ![Electron](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg =20x20)
-  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg =20x20)
-  - ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =20x20)
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/>
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="20" height="20"/>
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/>
+  - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20" height="20"/>
+
 
