@@ -1,38 +1,50 @@
 <h1 align="center">Hi 👋, I'm Antonio Sitoe</h1>
-<h3 align="center">A passionate Frontend and Mobile developer from Mozambique (Maputo)</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, and Android development**
-
-- 👯 I’m looking to collaborate on **Android (React Native) Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Antonio-Sitoe?tab=repositories](https://github.com/Antonio-Sitoe?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/antonio-sitoe-521b64205/recent-activity/newsletter/](https://www.linkedin.com/in/antonio-sitoe-521b64205/recent-activity/newsletter/)
-
-- 💬 Ask me about **React Native, React.js, Next.Js, Node.Js**
-
-- 📫 How to reach me **antoniositoehl@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/antonio-sitoe-521b64205/](https://www.linkedin.com/in/antonio-sitoe-521b64205/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antonio-sitoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-sitoe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucv_uxipzr4hvyigq48msgvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucv_uxipzr4hvyigq48msgvg" height="30" width="40" /></a>
+<p align="center">
+  Frontend and Mobile Developer from Maputo, Mozambique.
 </p>
 
-### Languages and Tools:
+<p align="center">
+  <a href="mailto:antoniositoehl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-antoniositoehl%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-sitoe-521b64205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Antonio%20Sitoe-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Antonio-Sitoe?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Projects" />
+  </a>
+</p>
 
-- **Languages**
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="20" height="20"/></span>
-   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/></span>
-   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/></span>
+## About me
 
-- **Frameworks and Tools**
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></span>
-   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="20" height="20"/></span>
-   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/></span>
-   <span><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20" height="20"/></span>
+- 🌱 I am currently learning **Data Structures and Algorithms** and **Android development**.
+- 👯 I am open to collaborating on **Android projects (React Native)**.
+- 💬 Ask me about **React Native, React.js, Next.js, and Node.js**.
+- 📝 I regularly share content on [LinkedIn Newsletter](https://www.linkedin.com/in/antonio-sitoe-521b64205/recent-activity/newsletter/).
+- 📄 Learn more about my experience on [my LinkedIn profile](https://www.linkedin.com/in/antonio-sitoe-521b64205/).
+
+## Tech stack
+
+### Languages
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks and tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/antonio-sitoe-521b64205](https://www.linkedin.com/in/antonio-sitoe-521b64205/)
+- YouTube: [youtube.com/c/ucv_uxipzr4hvyigq48msgvg](https://www.youtube.com/c/ucv_uxipzr4hvyigq48msgvg)
+- Email: [antoniositoehl@gmail.com](mailto:antoniositoehl@gmail.com)
 
 
 
