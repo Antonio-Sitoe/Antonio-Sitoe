@@ -19,7 +19,7 @@
 
 - 🌱 I am currently learning **Data Structures and Algorithms** and **Android development**.
 - 👯 I am open to collaborating on **Android projects (React Native)**.
-- 💬 Ask me about **React Native, React.js, Angular, Next.js, Node.js, and Java**.
+- 💬 Ask me about **React Native, React.js, Angular, Next.js, Node.js, and Java (SpringBoot)**.
 - 📝 I regularly share content on [LinkedIn Newsletter](https://www.linkedin.com/in/antonio-sitoe-521b64205/recent-activity/newsletter/).
 - 📄 Learn more about my experience on [my LinkedIn profile](https://www.linkedin.com/in/antonio-sitoe-521b64205/).
 
